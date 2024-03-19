@@ -1,0 +1,26 @@
+[2024-17-03 22:59:00 INFO] [Config]:{'experience': {'reap_zombie': True, 'threshold': 0, 'upper_limit': 10}, 'codes': {'tmp_directory': 'tmp_codes', 'main_script': 'main.py'}, 'embedding_method': 'OpenAI', 'retrieval': {'top_k_code': 1, 'top_k_text': 1, 'searchcode_thresh': 0, 'searchtext_thresh': 0}}
+[2024-17-03 22:59:00 INFO] 
+************************************************** Graph **************************************************
+0 Nodes:
+0 Edges:
+************************************************** Graph **************************************************
+[2024-17-03 22:59:00 INFO] No node or no edges constrcuted from the task execution process, maybe due to a unfinished software production or sometimes single node appears
+[2024-17-03 22:59:00 INFO] DONE: got all EDGE embeddings
+EDGE embedding time cost:0.0
+
+[2024-17-03 22:59:00 INFO] DONE: got all NODE embeddings
+NODE embedding time cost:0.0
+
+[2024-17-03 22:59:00 INFO] DONE: got all EXPERIENCE embeddings
+EXPERIENCE embedding time cost:0.0
+
+[2024-17-03 22:59:00 INFO] All embedding DONE
+time cost:0.0
+
+[2024-17-03 22:59:00 INFO] len(previous_memory)=0
+[2024-17-03 22:59:00 INFO] len(merged_dic)=1
+ merged_dic dumped to C:\Users\vit00\Documents\GitHub\ChatDev\ecl\memory\MemoryCards.json
+[2024-17-03 22:59:00 INFO] [Conclusion]:
+text_prompt_tokens:0, text_total_tokens:0
+code_prompt_tokens:0, code_total_tokens:0
+prompt_tokens:0, total_tokens:0

@@ -1,0 +1,1 @@
+Develop a top-down 2D roguelike shooting zombie game where a human player can move with w, a, s, d to go up, down, left, and right. Plus, a human player can shoot if he click the mouse left button. Zombie enemies are continuously chasing a player. Furthermore, The game ends when a zombie touches a player. Use pygame library when you make the game.

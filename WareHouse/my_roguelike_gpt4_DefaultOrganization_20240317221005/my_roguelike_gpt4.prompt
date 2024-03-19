@@ -1,0 +1,1 @@
+Develop a top-down 2D roguelike zombie game where a human player can move with w, a, s, d to go up, down, left, and right. Zombie enemies are continuously chasing a player. Furthermore, The game ends when a zombie touches a player. Use pygame library when you make the game.
